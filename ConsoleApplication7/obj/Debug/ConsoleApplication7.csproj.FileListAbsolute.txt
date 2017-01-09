@@ -1,0 +1,6 @@
+c:\users\traderai\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\Traderai\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+C:\Users\Traderai\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\Traderai\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\Traderai\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\Traderai\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
